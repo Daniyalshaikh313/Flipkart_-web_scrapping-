@@ -1,7 +1,12 @@
+
+![Screenshot 2025-04-06 001610](https://github.com/user-attachments/assets/14f5c8f0-fdbe-491b-ba91-4f79d091ef6f)![Screenshot 2025-04-06 001610](https://github.com/user-attachments/assets/bfd359f8-50ef-4ae2-94da-4199dbc2219c)![Screenshot 2025-04-06 001610](https://github.com/user-attachments/assets/d15d3006-cfda-46be-9323-210e2d2bc910)
+
+
+
 📦 Flipkart Laptop Web Scraping Project
 Welcome to the Flipkart Web Scraping project! 🚀
 This project scrapes laptop data from Flipkart using Python and BeautifulSoup, cleans the data using Pandas, and prepares it for analysis and visualization.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📌 Project Objective
 To extract detailed information about laptops listed on Flipkart, including:
 
